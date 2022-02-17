@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import { fetchMovies, setCurrentTitle } from "../../bll/movies-slice";
 import { useAppDispatch } from "../../bll/hooks";
+import { fetchMovies, setCurrentTitle } from "../../bll/movies-slice";
 import { Error } from "../Error";
 import { Input } from "../Input";
 import { User } from "../User/User";

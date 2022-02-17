@@ -1,0 +1,20 @@
+.result {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 5px 0 0 10px;
+  align-self: flex-start;
+  font-size: 20px;
+
+  @media screen and (max-width: 472px) {
+    flex-direction: column;
+  }
+
+  .total {
+    margin-left: 5px;
+
+    @media screen and (max-width: 472px) {
+      margin: 0;
+    }
+  }
+}

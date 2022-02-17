@@ -1,0 +1,43 @@
+.movieContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  margin: 15px;
+  width: 300px;
+  height: 400px;
+  box-shadow: 0 0 44px -5px rgba(0,0,0,0.55);
+  -webkit-box-shadow: 0 0 44px -5px rgba(0,0,0,0.55);
+  -moz-box-shadow: 0 0 44px -5px rgba(0,0,0,0.55);
+
+  .poster {
+    height: 250vmin;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .contentContainer {
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    .title {
+      font-size: 18px;
+      text-align: center;
+      margin-bottom: 5px;
+    }
+
+    .description {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+    }
+  }
+
+
+}

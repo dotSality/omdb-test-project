@@ -9,11 +9,13 @@ const App = () => {
   const { status } = useAppSelector(state => state.app);
   return (
     <div className={s.app}>
+      <Header />
       <div className={s.appContainer}>
         <div className={s.container}>
-          <Header />
           {status === "loading" && (
-            <img style={{ marginTop: "50px" }} src={loader} alt="loader" />
+            <div className={s.loader}>
+              <img style={{ marginTop: "50px" }} src={loader} alt="loader" />
+            </div>
           )}
           {isLoaded && <Collection />}
         </div>

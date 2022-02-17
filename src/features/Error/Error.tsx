@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 import closeImage from "../../assets/img/close.svg";
 import { setAppError } from "../../bll/app-slice";
-import { useAppDispatch, useAppSelector } from "../../hooks";
+import { useAppDispatch, useAppSelector } from "../../bll/hooks";
 
 import s from "./Error.module.scss";
 

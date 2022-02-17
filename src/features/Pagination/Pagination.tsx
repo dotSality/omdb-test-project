@@ -1,5 +1,5 @@
 import { fetchMovies } from "../../bll/movies-slice";
-import { useAppDispatch, useAppSelector } from "../../hooks";
+import { useAppDispatch, useAppSelector } from "../../bll/hooks";
 
 import { Button } from "./Button/Button";
 import s from "./Pagination.module.scss";

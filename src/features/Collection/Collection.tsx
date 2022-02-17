@@ -1,4 +1,4 @@
-import { useAppSelector } from "../../hooks";
+import { useAppSelector } from "../../bll/hooks";
 import { Pagination } from "../Pagination";
 
 import s from "./Collection.module.scss";

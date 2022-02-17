@@ -1,4 +1,4 @@
-import { useAppSelector } from "../../../hooks";
+import { useAppSelector } from "../../../bll/hooks";
 
 import s from "./SearchResult.module.scss";
 

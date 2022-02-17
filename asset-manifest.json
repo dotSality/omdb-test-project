@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/omdb-test-project/static/css/main.088de643.css",
-    "main.js": "/omdb-test-project/static/js/main.6751f4c2.js",
+    "main.css": "/omdb-test-project/static/css/main.e5bc32f8.css",
+    "main.js": "/omdb-test-project/static/js/main.28b40c83.js",
     "static/media/loader.gif": "/omdb-test-project/static/media/loader.212785ba311059e7a179.gif",
     "static/media/default-poster.jpg": "/omdb-test-project/static/media/default-poster.71253f31d01ef6cdd4cc.jpg",
     "static/media/down-arrow.svg": "/omdb-test-project/static/media/down-arrow.600ee40a8482d49a28d3a8b68a87282b.svg",
@@ -10,11 +10,11 @@
     "static/media/remove.svg": "/omdb-test-project/static/media/remove.4d7a9b1ea2fa1043e05fde8f9b1f7aad.svg",
     "index.html": "/omdb-test-project/index.html",
     "static/media/close.svg": "/omdb-test-project/static/media/close.385c64ed96bfe49b76fe522d8d8e45cf.svg",
-    "main.088de643.css.map": "/omdb-test-project/static/css/main.088de643.css.map",
-    "main.6751f4c2.js.map": "/omdb-test-project/static/js/main.6751f4c2.js.map"
+    "main.e5bc32f8.css.map": "/omdb-test-project/static/css/main.e5bc32f8.css.map",
+    "main.28b40c83.js.map": "/omdb-test-project/static/js/main.28b40c83.js.map"
   },
   "entrypoints": [
-    "static/css/main.088de643.css",
-    "static/js/main.6751f4c2.js"
+    "static/css/main.e5bc32f8.css",
+    "static/js/main.28b40c83.js"
   ]
 }

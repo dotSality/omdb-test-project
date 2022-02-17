@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omdb-test-project/static/css/main.e5bc32f8.css",
-    "main.js": "/omdb-test-project/static/js/main.28b40c83.js",
+    "main.js": "/omdb-test-project/static/js/main.e3281558.js",
     "static/media/loader.gif": "/omdb-test-project/static/media/loader.212785ba311059e7a179.gif",
     "static/media/default-poster.jpg": "/omdb-test-project/static/media/default-poster.71253f31d01ef6cdd4cc.jpg",
     "static/media/down-arrow.svg": "/omdb-test-project/static/media/down-arrow.600ee40a8482d49a28d3a8b68a87282b.svg",
@@ -11,10 +11,10 @@
     "index.html": "/omdb-test-project/index.html",
     "static/media/close.svg": "/omdb-test-project/static/media/close.385c64ed96bfe49b76fe522d8d8e45cf.svg",
     "main.e5bc32f8.css.map": "/omdb-test-project/static/css/main.e5bc32f8.css.map",
-    "main.28b40c83.js.map": "/omdb-test-project/static/js/main.28b40c83.js.map"
+    "main.e3281558.js.map": "/omdb-test-project/static/js/main.e3281558.js.map"
   },
   "entrypoints": [
     "static/css/main.e5bc32f8.css",
-    "static/js/main.28b40c83.js"
+    "static/js/main.e3281558.js"
   ]
 }
